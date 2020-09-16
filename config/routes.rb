@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  rot 'posts#index'
+  root 'posts#index'
 end
